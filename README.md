@@ -1,4 +1,8 @@
-## Hi there 👋
+## Profile
+- My major: Quantum internet, quantum application
+- Software engineering
+- Game development
+  - amateur 🙇‍♂️ 
 
 <!--
 **mtm724/mtm724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
