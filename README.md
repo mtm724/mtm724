@@ -5,7 +5,7 @@
   - amateur 🙇‍♂️
  
 ### Illustraion credits
-Profile icon -> Mr. [こむぎこ2000](https://x.com/komugiko_2000?s=20)
+Profile icon -> Mr. [komugiko_2000](https://x.com/komugiko_2000?s=20)
 
 <!--
 **mtm724/mtm724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
