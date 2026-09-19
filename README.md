@@ -1,5 +1,5 @@
 ## Profile
-- My major: Quantum internet, quantum application
+- My major: quantum internet, quantum application
 - Software engineering
 - Game development
   - amateur 🙇‍♂️ 
